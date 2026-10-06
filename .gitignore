@@ -1,0 +1,4 @@
+build-ard/
+*.mpy
+__pycache__/
+.DS_Store
